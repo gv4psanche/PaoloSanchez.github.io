@@ -29,7 +29,7 @@ HP Inc., Houston, TX<br>
 
 
 Enhanced supply chain S&OP efficiency by transforming operational data into actionable, strategic insights using BI tools.
-- Led the Power BI migration of 12+ SIOP reports, enhancing data visualization, KPI tracking, and trend analysis for cross-functional teams in different regions.
+- Led the Power BI migration of 15+ SIOP reports, enhancing data visualization, KPI tracking, and trend analysis for cross-functional teams in different regions.
 - Increased help-ticket closure rate by 30% resulting in positive stakeholder sentiment in two quarters by analyzing ServiceNow ticketing data with Excel and Power BI, identifying process inefficiencies and training gaps.
 - Implemented anomaly detection on SAP workflow schedules dataset extracts, reducing system downtime by 15% by enabling proactive RCA and issue resolution.
 - Automated data pipelines, report refreshes, and user notifications, saving 3–6 hours weekly and boosting self-service analytics adoption.
