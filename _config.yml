@@ -3,5 +3,5 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Paolo Sanchez
 logo: LinkedIn_Enhanced_200x200.fw.png #200x200_avatar.jpg
-description: Business Intelligence Analyst
+description: Data Analyst
 theme: jekyll-theme-minimal
