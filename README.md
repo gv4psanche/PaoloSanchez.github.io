@@ -20,7 +20,7 @@ In a world where analytics is often automated and scaled, I bring a more thought
 **LinkedIn:** [www.linkedin.com/in/paolo-sanchez](https://www.linkedin.com/in/paolo-sanchez)  
 
 ## Education
-- B.S., Computer Science | De LaSalle University (_Dec 1990_)
+Bachelor of Science in Computer Science | De LaSalle University (_Dec 1990_)
 
 ## Work Experience
 **Business Operations Analyst**<br>
