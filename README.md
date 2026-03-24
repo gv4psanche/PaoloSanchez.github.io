@@ -11,7 +11,7 @@ I don’t come at data as an abstract exercise—I see it as a tool for solving 
 In a world where analytics is often automated and scaled, I bring a more thoughtful, detail-oriented approach—because sometimes the most valuable insights are the ones that are carefully crafted.
 
 
-**Technical Skills:** SQL (T-SQL | MySQL | BigQuery) , Power BI , Tableau , Power BI * MS Office Suite ( Excel, PowerPoint, Copilot, Word ) , Python , REST API , GitHub , Azure DevOps 
+**Technical Skills:** SQL(T-SQL, MySQL, BigQuery), Power BI, Tableau, Power BI, MS Office Suite(Excel, PowerPoint, Copilot, Word), Python, REST API, GitHub, Azure DevOps 
 
 
 ## Contact Me  
